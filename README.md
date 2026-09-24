@@ -126,4 +126,6 @@ Recovered: hello1234
 
 - Licensed under GPL v3
 
+## Warning
 
+- The program trusts the user blindly and will run on malicious data file without checking. It's a trade off made in attempt to as fastest as possible 
